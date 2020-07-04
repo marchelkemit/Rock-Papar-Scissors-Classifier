@@ -1,1 +1,1 @@
-# Rock-Papar-Scissors-Classifier
+# Rock-Paper-Scissors-Classifier
